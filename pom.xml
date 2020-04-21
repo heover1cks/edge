@@ -41,6 +41,7 @@
         -->
         <module>edge-it</module>
 
+
     </modules>
     <build>
         <plugins>
